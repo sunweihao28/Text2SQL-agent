@@ -39,7 +39,7 @@ User authentication system with JWT tokens. Your data access is always protected
 ## � Screenshots
 
 ### 1. Chat History & Main Interface
-![Chat History & Query Display](assets/1-chat-history.png)
+![Chat History & Query Display](Text2sql/assets/1-chat-history.png)
 **Feature: Chat History Management**
 - Sidebar displays historical queries in reverse chronological order
 - Click any history item to restore the complete conversation and results
@@ -75,7 +75,7 @@ The AI agent displays responses with text explanations, SQL code blocks, and que
 ---
 
 ### 4. Long-Term Memory (RAG)
-![Long-Term Memory](assets/4-long-term-memory.png)
+![Long-Term Memory](Text2sql/assets/4-long-term-memory.png)
 **Feature: RAG-Based Memory System**
 - Save long-term conversation history using RAG for easy retrieval
 - Users can rename, delete, or create new memories
@@ -84,7 +84,7 @@ The AI agent displays responses with text explanations, SQL code blocks, and que
 ---
 
 ### 5. Smart Data Visualization
-![Data Visualization](assets/5-data-visualization.png)
+![Data Visualization](Text2sql/assets/5-data-visualization.png)
 **Feature: Auto Chart Rendering**
 - Frontend automatically renders charts via Recharts library from structured JSON
 
