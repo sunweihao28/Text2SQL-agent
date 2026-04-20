@@ -58,13 +58,13 @@ User authentication system with JWT tokens. Your data access is always protected
 ---
 
 ### 2. Multi-Modal AI Response
-![Multi-Modal Response](assets/2-multi-modal-response.png)
+![Multi-Modal Response](Text2sql/assets/2-multi-modal-response.png)
 The AI agent displays responses with text explanations, SQL code blocks, and query result data simultaneously for comprehensive insights.
 
 ---
 
 ### 3. Database Connection Configuration
-![Database Connection](assets/3-database-connection.png)
+![Database Connection](Text2sql/assets/3-database-connection.png)
 **Feature: Database Connection Config**
 - Enter database type, address, username, and password to connect and save configuration
 
